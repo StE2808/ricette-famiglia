@@ -116,7 +116,7 @@
     "id": "crepes-al-cointreau",
     "titolo": "Crepes al Cointreau",
     "immagini": [
-      "IMG_4215.jpg"
+      "IMG_4255.jpg"
     ],
     "markdown": "**Ingredienti (per 12 crepes):**\n- 1 bicchiere e mezzo di latte\n- 125 gr di farina\n- 50 gr di zucchero\n- 1 bicchierino di Cointreau\n- 2 uova\n- 30 gr di burro\n- Marmellata d'arancia",
     "verificato": false
@@ -332,7 +332,7 @@
     "id": "frittelle-di-riso",
     "titolo": "Frittelle di riso",
     "immagini": [
-      "IMG_4258.jpg"
+      "IMG_4257.jpg"
     ],
     "markdown": "**Ingredienti:**\n- 200 gr di riso cotto in 1 litro di latte\n- Limone grattugiato\n- Vanillina\n- Zucchero 30 gr\n- 2 uova\n- Lievito (1/2 bustina)\n- Farina (se occorre)\n\n**Procedimento:**\nMescolare tutto e friggere a cucchiaiate.",
     "verificato": false
@@ -341,7 +341,7 @@
     "id": "lasagne-al-madeira",
     "titolo": "Linguine al Madeira",
     "immagini": [
-      "IMG_4259.jpg"
+      "IMG_4258.jpg"
     ],
     "markdown": "**Per 6 persone:**\n\n**Ingredienti:**\n- Lasagne 500 gr\n- Funghi trifolati 400 gr\n- Burro 100 gr\n- Prosciutto cotto 100 gr\n- 1 bicchiere di Madeira\n- Sale, farina, pepe, olio\n\n**Procedimento:**\nPreparare le lasagne e tenerle in caldo nel brodo. Scaldare in un tegame metà del burro e due cucchiai d'olio, unire i funghi tritati e farli rosolare. Aggiungere il prosciutto cotto a striscioline e il Madeira. Far addensare. A parte, preparare una besciamella col burro restante, un cucchiaio di farina, un mestolo di brodo. Cuocere 5 minuti. Disporre le lasagne a strati alternando con la salsa di funghi e prosciutto.",
     "verificato": false
@@ -905,6 +905,15 @@
       "IMG_4283.jpg"
     ],
     "markdown": "**Ingredienti:**\n- Cipolla\n- Olio\n- Burro\n- Panna\n- Brodo\n- Grana grattugiato\n\n**Procedimento:**\nSoffriggere la cipolla, aggiungere panna e brodo. Condire la pasta con abbondante grana.\n\n---\n\n*Fine del quaderno di ricette*",
+    "verificato": false
+  },
+  {
+    "id": "lasagne-melanzane-scamorza",
+    "titolo": "Lasagne con melanzane e scamorza",
+    "immagini": [
+      "IMG_4277.jpg"
+    ],
+    "markdown": "**Ingredienti:**\n- (da completare)\n\n**Procedimento:**\n- (da completare)",
     "verificato": false
   }
 ]
